@@ -28,11 +28,11 @@
 
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
-![rose](https://user-images.githubusercontent.com/44733677/154608434-99ccaaf3-b5f2-4c7d-8c8d-7b9a889bf7e5.png)
+![rose](https://user-images.githubusercontent.com/44733677/154612269-5254f106-5638-41c3-8854-a076f2006296.png)
 
-![moon](https://user-images.githubusercontent.com/44733677/154608441-770fd4b2-950d-442c-a998-79ed61e0ffac.png)
+![moon](https://user-images.githubusercontent.com/44733677/154612276-905986ce-8d52-45f9-bb86-4f0c1b737253.png)
 
-![dawn](https://user-images.githubusercontent.com/44733677/154608446-561b8300-090c-462c-842a-e7abae83c8d4.png)
+![dawn](https://user-images.githubusercontent.com/44733677/154612284-47a402ae-c772-47df-947b-cd1594da128b.png)
 
 ## Thanks to
 
