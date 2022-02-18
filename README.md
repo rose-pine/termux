@@ -13,7 +13,7 @@
 
 ## Usage
 
-**Note that this will be the process until the themes are merged into the main repo and a new release is created!**
+**Note that this will be the process until [#150](https://github.com/termux/termux-styling/pull/150) is merged into the main repo and a new release is created!**
 1. **Uninstall Termux and any addons!** Your Termux settings will be reset.
 2. Download and install the latest debug build of Termux [here](https://github.com/termux/termux-app/actions/workflows/debug_build.yml).
 > Go to the top result, then download `termux-app_v0.xxx+xxx-github-debug_arm64-v8a`
