@@ -17,7 +17,7 @@
 1. Uninstall Termux and any addons
 2. Download and install the latest debug build of Termux [here](https://github.com/termux/termux-app/actions/workflows/debug_build.yml).
 > Go to the top result, then download `termux-app_v0.xxx+xxx-github-debug_arm64-v8a`
-3. Download and install the [Termux:Styles Rosé Pine build](https://github.com/rose-pine/termux-styling/releases/download/v0.30/app-debug.apk) from the releases on this repo
+3. Download and install the **[Termux:Styles Rosé Pine build](https://github.com/rose-pine/termux-styling/releases/download/v0.30/app-debug.apk)** from the releases on this repo
 4. In Termux, press and hold and tap <kbd>Style</kbd>
 5. Tap <kbd>CHOOSE COLOR</kbd>
 6. Scroll to the bottom of the list
